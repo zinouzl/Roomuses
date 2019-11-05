@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Roomuses</string>
+
+    <string name="description">Description</string>
+    <string name="priority">Priority:</string>
+    <string name="_1">1</string>
+    <string name="title">Title</string>
+    <string name="the_body_of_this_note">the body of this note</string>
+    <string name="save">Save</string>
+    <string name="delete_all_notes">Delete All Notes</string>
+</resources>
